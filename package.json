@@ -1,11 +1,19 @@
 {
   "name": "@shallow_red/dom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shallow Red dom utils",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "author": "Lucas Poulain (Shallow_Red)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShallowRed/dom-selector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShallowRed/dom-selector/issues"
+  },
+  "homepage": "https://github.com/ShallowRed/dom-selector#readme"
 }
