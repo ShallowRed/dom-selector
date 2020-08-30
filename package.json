@@ -1,6 +1,6 @@
 {
   "name": "@shallow_red/dom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shallow Red dom utils",
   "main": "index.js",
   "scripts": {
