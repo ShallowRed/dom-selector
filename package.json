@@ -1,0 +1,11 @@
+{
+  "name": "@shallow_red/dom",
+  "version": "1.0.1",
+  "description": "Shallow Red dom utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Lucas Poulain (Shallow_Red)",
+  "license": "ISC"
+}
